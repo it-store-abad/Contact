@@ -1,17 +1,19 @@
 body{
     text-align: center;
 }
-a{
+.contact_1 a{
     text-decoration: none;
+    font-family: Cooper;
+    font-family: 'Lobster', cursive;
+    font-size: 19px;
 }
 #m{
     font-family: 'Bebas Neue', cursive;;
-    font-size: 25px;
+    font-size: 20px;
 }
  
 .contact_1 a{
     color: black;
-    font-family: 'Lobster', cursive;
     text-shadow: none;
 }
 .contact_1 h3{
@@ -25,8 +27,22 @@ a{
     font-family: 'Bebas Neue', cursive;
     font-size: 25px;
 }
-#head{
+h1{
+    font-size: 30px;
+}
+#l{
+    margin-top: 3px;
     font-family: 'Bebas Neue', cursive;
 font-family: 'Lobster', cursive;
 font-family: 'Pacifico', cursive;
+}
+#m{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+#nb{
+   font-family: 'Lobster', cursive;
+    font-size: 19px; 
 }
